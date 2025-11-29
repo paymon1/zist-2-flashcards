@@ -1,0 +1,5 @@
+{
+  "name": "FlashMaster PWA",
+  "description": "A robust, responsive flashcard application for exam preparation with spaced repetition features.",
+  "requestFramePermissions": []
+}
